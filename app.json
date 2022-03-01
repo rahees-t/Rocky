@@ -1,6 +1,6 @@
 {
-    "name": "Rocky public bot",
-    "description": "Rocky project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "🤹🏻‍♀️🎩𝄠࿑᥅ꪖꫝꫀꫀᦓ❥࿑𝄠🎩🤹🏻‍♂️",
+    "description": "𝐖𝐡𝐞𝐧 𝐭𝐡𝐞 𝐬𝐧𝐨𝐰𝐬 𝐟𝐚𝐥𝐥 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐰𝐡𝐢𝐭𝐞 𝐰𝐢𝐧𝐝𝐬 𝐛𝐥𝐨𝐰, 𝐭𝐡𝐞 𝐥𝐨𝐧𝐞 𝐰𝐨𝐥𝐟 𝐝𝐢𝐞𝐬 𝐛𝐮𝐭 𝐭𝐡𝐞 𝐩𝐚𝐜𝐤 𝐬𝐮𝐫𝐯𝐢𝐯𝐞𝐬..",
     "logo": "https://github.com/anshadat/Rocky/blob/master/Anshad-407x400.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/anshadat/Rocky",
@@ -63,7 +63,7 @@
             "value": "false"
         },
         "AUTO_BİO": {
-            "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
+            "description": "𝐖𝐡𝐞𝐧 𝐭𝐡𝐞 𝐬𝐧𝐨𝐰𝐬 𝐟𝐚𝐥𝐥 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐰𝐡𝐢𝐭𝐞 𝐰𝐢𝐧𝐝𝐬 𝐛𝐥𝐨𝐰, 𝐭𝐡𝐞 𝐥𝐨𝐧𝐞 𝐰𝐨𝐥𝐟 𝐝𝐢𝐞𝐬 𝐛𝐮𝐭 𝐭𝐡𝐞 𝐩𝐚𝐜𝐤 𝐬𝐮𝐫𝐯𝐢𝐯𝐞𝐬..",
             "required": true,
             "value": "true"
         },
@@ -124,7 +124,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏Rockyser⤎╾━━━•"
+            "value": "•━━━━╼⤏᥅ꪖꫝꫀꫀᦓ⤎╾━━━•"
         },
         "WORK_TYPE": {
             "description": "Rocky Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
